@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinators</title>
+    <style>
+        .out h2{
+            color: green;
+        }
+        .out>h2{
+            color: pink;
+        }
+        h2+div{
+            background-color: thistle;
+        }
+        .inside~div{
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="out">
+        <h1>Head</h1>
+        <h2>First Heading</h2>
+        <div class="in">
+            <h3>Inside Heading 1</h3>
+            <h3>Inside Heading 2</h3>
+            <h2>Inside Heading 3</h2>
+        </div>
+        <h2>Second Heading</h2>
+        <div class="inside">
+            <div>
+                Hello
+                <div>
+                    World
+                </div>
+            </div>
+        </div>
+        <div id="ending">
+            <h2>The End</h2>
+            <div>
+                Hello
+            </div>
+        </div>
+        <div id="end">
+            <h2>Very End</h2>
+        </div>
+    </div>
+    
+</body>
+</html>
