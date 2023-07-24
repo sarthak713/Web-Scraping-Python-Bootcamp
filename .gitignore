@@ -4,6 +4,7 @@ tests-examples/
 tests/
 /playwright-report/
 /playwright/.cache/
-*.json
+package.json
+package-lock.json
 *.ts
 .github/
