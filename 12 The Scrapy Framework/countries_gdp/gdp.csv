@@ -1,0 +1,214 @@
+country_name,region,gdp,year
+United States,Americas,"26,854,599",2023
+China,Asia,"19,373,586",2023
+Japan,Asia,"4,409,738",2023
+Germany,Europe,"4,308,854",2023
+India,Asia,"3,736,882",2023
+United Kingdom,Europe,"3,158,938",2023
+France,Europe,"2,923,489",2023
+Italy,Europe,"2,169,745",2023
+Canada,Americas,"2,089,672",2023
+Brazil,Americas,"2,081,235",2023
+Russia,Europe,"2,062,649",2023
+South Korea,Asia,"1,721,909",2023
+Australia,Oceania,"1,707,548",2023
+Mexico,Americas,"1,663,164",2023
+Spain,Europe,"1,492,432",2023
+Indonesia,Asia,"1,391,778",2023
+Netherlands,Europe,"1,080,880",2023
+Saudi Arabia,Asia,"1,061,902",2023
+Turkey,Asia,"1,029,303",2023
+Switzerland,Europe,"869,601",2023
+Taiwan,Asia,"790,728",2023
+Poland,Europe,"748,887",2023
+Argentina,Americas,"641,102",2023
+Belgium,Europe,"624,248",2023
+Sweden,Europe,"599,052",2023
+Ireland,Europe,"594,095",2023
+Thailand,Asia,"574,231",2023
+Norway,Europe,"554,105",2023
+Israel,Asia,"539,223",2023
+Singapore,Asia,"515,548",2023
+Austria,Europe,"515,199",2023
+Nigeria,Africa,"506,601",2023
+United Arab Emirates,Asia,"498,978",2023
+Vietnam,Asia,"449,094",2023
+Malaysia,Asia,"447,026",2023
+Philippines,Asia,"440,901",2023
+Bangladesh,Asia,"420,516",2023
+Denmark,Europe,"405,626",2023
+South Africa,Africa,"399,015",2023
+Hong Kong,Asia,"382,854",2023
+Egypt,Africa,"378,110",2023
+Pakistan,Asia,—,"376,533"
+Iran,Asia,"367,970",2023
+Chile,Americas,"358,557",2023
+Romania,Europe,"348,902",2023
+Colombia,Americas,"334,689",2023
+Czech Republic,Europe,"330,483",2023
+Finland,Europe,"301,670",2023
+Peru,Americas,"268,235",2023
+Iraq,Asia,"267,893",2023
+Portugal,Europe,"267,721",2023
+New Zealand,Oceania,"251,969",2023
+Kazakhstan,Asia,"245,695",2023
+Greece,Europe,"239,300",2023
+Qatar,Asia,"219,570",2023
+Algeria,Africa,"206,007",2023
+Hungary,Europe,"188,505",2023
+Kuwait,Asia,"164,713",2023
+Ethiopia,Africa,"156,083",2023
+Ukraine,Europe,"148,712",2023
+Morocco,Africa,"138,781",2023
+Slovakia,Europe,"127,533",2023
+Ecuador,Americas,"121,291",2023
+Dominican Republic,Americas,"121,289",2023
+Puerto Rico,Americas,"120,838",2023
+Kenya,Africa,"118,130",2023
+Angola,Africa,"117,877",2023
+Cuba,Americas,—,—
+Oman,Asia,"104,902",2023
+Guatemala,Americas,"102,309",2023
+Bulgaria,Europe,"100,635",2023
+Venezuela,Americas,"96,628",2023
+Uzbekistan,Asia,"92,332",2023
+Luxembourg,Europe,"86,971",2023
+Tanzania,Africa,"85,421",2023
+Turkmenistan,Asia,"82,649",2023
+Croatia,Europe,"78,881",2023
+Lithuania,Europe,"78,346",2023
+Costa Rica,Americas,"77,777",2023
+Uruguay,Americas,"77,313",2023
+Panama,Americas,"77,257",2023
+Ivory Coast,Africa,"77,047",2023
+Sri Lanka,Asia,—,"74,404"
+Serbia,Europe,"73,961",2023
+Belarus,Europe,"73,543",2023
+Azerbaijan,Asia,"70,030",2023
+DR Congo,Africa,"69,474",2023
+Slovenia,Europe,"68,108",2023
+Ghana,Africa,"66,622",2023
+Myanmar,Asia,"63,988",2023
+Jordan,Asia,"52,061",2023
+Tunisia,Africa,"49,815",2023
+Uganda,Africa,"49,792",2023
+Cameroon,Africa,"48,625",2023
+Latvia,Europe,"47,398",2023
+Sudan,Africa,"46,705",2023
+Libya,Africa,"46,297",2023
+Bolivia,Americas,"46,097",2023
+Bahrain,Asia,"44,870",2023
+Paraguay,Americas,"42,820",2023
+Nepal,Asia,"42,097",2023
+Estonia,Europe,"41,551",2023
+Macau,Asia,"35,841",2023
+El Salvador,Americas,"33,752",2023
+Honduras,Americas,"32,860",2023
+Papua New Guinea,Oceania,"31,362",2023
+Senegal,Africa,"31,221",2023
+Cyprus,Asia,"30,864",2023
+Cambodia,Asia,"30,628",2023
+Zimbabwe,Africa,"29,931",2023
+Zambia,Africa,"29,272",2023
+Iceland,Europe,"28,625",2023
+Bosnia and Herzegovina,Europe,"28,488",2023
+Trinidad and Tobago,Americas,"28,223",2023
+Georgia,Europe,"27,947",2023
+Haiti,Americas,"26,580",2023
+Lebanon,Asia,—,—
+Armenia,Asia,"23,725",2023
+Guinea,Africa,"23,330",2023
+Burkina Faso,Africa,"21,076",2023
+Mali,Africa,"20,776",2023
+Gabon,Africa,"20,330",2023
+Albania,Europe,"20,177",2023
+Afghanistan,Asia,—,—
+Mozambique,Africa,"19,909",2023
+Palestine,Asia,"19,206",2023
+Botswana,Africa,"19,572",2023
+Yemen,Asia,"19,529",2023
+Malta,Europe,"19,405",2023
+Benin,Africa,"19,236",2023
+Nicaragua,Americas,"17,287",2023
+Jamaica,Americas,"17,254",2023
+Mongolia,Asia,"16,908",2023
+Niger,Africa,"16,617",2023
+Guyana,Americas,"16,309",2023
+Brunei,Asia,"15,988",2023
+Madagascar,Africa,"15,969",2023
+North Korea,Asia,—,—
+Moldova,Europe,"15,829",2023
+Syria,Asia,—,—
+North Macedonia,Europe,"15,278",2023
+Equatorial Guinea,Africa,"15,099",2023
+Mauritius,Africa,"14,570",2023
+Bahamas,Americas,"14,114",2023
+Laos,Asia,"14,091",2023
+Namibia,Africa,"13,486",2023
+Rwanda,Africa,"13,149",2023
+Congo,Africa,"13,031",2023
+Tajikistan,Asia,"12,796",2023
+Kyrgyzstan,Asia,"12,309",2023
+Chad,Africa,"11,962",2023
+Malawi,Africa,"11,277",2023
+Mauritania,Africa,"10,966",2023
+New Caledonia,Oceania,—,—
+Kosovo,Europe,"9,990",2023
+Togo,Africa,"9,001",2023
+Somalia,Africa,"8,738",2023
+Monaco,Europe,—,—
+Bermuda,Americas,—,"7,551"
+Montenegro,Europe,"7,027",2023
+South Sudan,Africa,"7,012",2023
+Maldives,Asia,"7,004",2023
+Liechtenstein,Europe,—,—
+Barbados,Americas,"6,117",2023
+French Polynesia,Oceania,—,—
+Cayman Islands,Americas,—,—
+Fiji,Oceania,"5,385",2023
+Eswatini,Africa,"4,824",2023
+Liberia,Africa,"4,375",2023
+Djibouti,Africa,"3,916",2023
+Andorra,Europe,"3,669",2023
+Aruba,Americas,"3,633",2023
+Sierra Leone,Africa,"3,520",2023
+Suriname,Americas,"3,470",2023
+Burundi,Africa,"3,234",2023
+Belize,Americas,"3,162",2023
+Greenland,Americas,—,—
+Central African Republic,Africa,"2,736",2023
+Curaçao,Americas,—,—
+Bhutan,Asia,"2,683",2023
+Eritrea,Africa,"2,666",2023
+Lesotho,Africa,"2,584",2023
+Cape Verde,Africa,"2,468",2023
+Gambia,Africa,"2,277",2023
+Saint Lucia,Americas,"2,262",2023
+East Timor,Asia,"1,988",2023
+Seychelles,Africa,"1,950",2023
+Guinea-Bissau,Africa,"1,887",2023
+Antigua and Barbuda,Americas,"1,864",2023
+San Marino,Europe,"1,807",2023
+Zanzibar,Africa,—,—
+Solomon Islands,Oceania,"1,701",2023
+British Virgin Islands,Americas,—,—
+Comoros,Africa,"1,348",2023
+Grenada,Americas,"1,274",2023
+Vanuatu,Oceania,"1,064",2023
+Saint Kitts and Nevis,Americas,"1,052",2023
+Saint Vincent and the Grenadines,Americas,"1,039",2023
+Turks and Caicos Islands,Americas,—,"1,139"
+Samoa,Oceania,898,2023
+Sint Maarten,Americas,—,"1,572"
+Dominica,Americas,681,2023
+São Tomé and Príncipe,Africa,625,2023
+Tonga,Oceania,541,2023
+Micronesia,Oceania,456,2023
+Marshall Islands,Oceania,291,2023
+Cook Islands,Oceania,—,—
+Palau,Oceania,262,2023
+Anguilla,Americas,—,—
+Kiribati,Oceania,248,2023
+Nauru,Oceania,151,2023
+Montserrat,Americas,—,—
+Tuvalu,Oceania,65,2023
