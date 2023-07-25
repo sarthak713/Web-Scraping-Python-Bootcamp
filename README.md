@@ -1,7 +1,7 @@
 ## Web Scraping with Python Bootcamp
 
-Practice code for The Ultimate Web Scraping With Python Bootcamp 2023 course on Udemy.
-Description for each Section is illustrated in: '.ipynb' files inside folders.
+- Practice code for The Ultimate Web Scraping With Python Bootcamp 2023 course on Udemy.
+- Description for each Section is illustrated in: '.ipynb' files inside folders.
 
 ### Syllabus
 - Python Fundamentals
