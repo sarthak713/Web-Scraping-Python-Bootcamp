@@ -10,3 +10,4 @@ package-lock.json
 .github/
 env/
 __pycache__/
+.vscode/
